@@ -2,6 +2,9 @@
 
 This project is a **responsive image gallery** that dynamically fetches images from the **Unsplash API** and displays them. The gallery features a modal view for full-size images and uses **Tailwind CSS** for styling.
 
+## 📸 Demo
+![Screenshot 2024-11-21 084123](https://github.com/user-attachments/assets/d99fd92c-5ee2-4af6-a8fe-c17f0aa6a8b3)
+
 ## 🎯 Features
 - **Dynamic Image Fetching**: Images are fetched from the Unsplash API and displayed in a gallery layout.
 - **Responsive Design**: The gallery adjusts to various screen sizes (mobile, tablet, desktop) using **Tailwind CSS**.
@@ -13,10 +16,6 @@ This project is a **responsive image gallery** that dynamically fetches images f
 - **CSS**: Styled with **Tailwind CSS** for fast, responsive design.
 - **JavaScript**: Used for DOM manipulation, fetching images from the Unsplash API, and controlling the modal functionality.
 - **Unsplash API**: Fetches beautiful, high-quality images for the gallery.
-
-## 📸 Demo
-
-![Image Gallery Demo](./demo-image.jpg)
 
 > Check out the live version of this project: [Link to live project or GitHub Pages URL]
 
